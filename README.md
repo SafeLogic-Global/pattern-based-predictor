@@ -161,18 +161,6 @@ Der aktuelle Prototyp demonstriert:
 
 ---
 
-## Repository Structure
-
-```text
-pattern-based-predictor/
-│
-├── predictor/
-├── simulation/
-├── tests/
-├── docs/
-└── README.md
-```
-
 ---
 
 ## License
