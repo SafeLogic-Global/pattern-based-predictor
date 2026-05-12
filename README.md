@@ -1,3 +1,7 @@
+Status: Version 1.0 (Experimental / Proof of Concept)
+Urheber: 0009-0003-9088-2341
+Lizenz: Apache License 2.0 
+
 # pattern-based-predictor
 Geometric Pattern Arithmetics (GPA) – Fehlerfreie Hochgeschwindigkeits-Logik
 
