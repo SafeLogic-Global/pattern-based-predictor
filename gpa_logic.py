@@ -1,3 +1,9 @@
+Status: Version 1.0 (Experimental / Proof of Concept)
+Urheber: 0009-0003-9088-2341
+Lizenz: Apache License 2.0
+Description: Fehlereliminierung durch geometrische Gitter-Logik 
+
+
 import math
 
 # --- TEIL 1: DIE GEOMETRISCHE GITTER-LOGIK ---
