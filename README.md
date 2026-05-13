@@ -166,3 +166,15 @@ Der aktuelle Prototyp demonstriert:
 ## License
 
 Licensed under the **Apache License 2.0**
+---
+
+## 🤝 Commercial Licensing & Hardware Partnerships
+
+This repository serves as an open-source Proof of Concept (PoC) under the Apache License 2.0 to foster innovation and academic collaboration. 
+
+However, for **industrial production, commercial integration, exclusive hardware manufacturing**, or deep-tech hardware implementation, alternative commercial licenses and joint patenting frameworks are available.
+
+If you are a semiconductor foundry, hardware manufacturer, or financial tech institution interested in building physical PPU/Superchip hardware, please reach out for commercial licensing, joint development, or consultancy options.
+
+**Contact:** Please open an **Issue** directly in this repository to initiate commercial licensing discussions or inquiries. / ORCID: 0009-0003-9088-2341
+
